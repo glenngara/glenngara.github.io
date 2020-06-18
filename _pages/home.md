@@ -29,7 +29,7 @@ Eduardo B. Santiago and [Glenn Paul P. Gara](/)
 **RISC-Based Simulation of Longest Common Subsequence Algorithm in MIPS64 Simulators**  
 [Glenn Paul P. Gara](/), Mark Phil B. Pacot and Roger Luis T. Uy   
 *TENCON 2018 - 2018 IEEE Region 10 Conference*  
-<a href="#" class="btn btn--info">PDF</a>
+<a href="/assets/files/publications/gara2018_riscbased.pdf" class="btn btn--info">PDF</a>
 <a href="https://doi.org/10.1109/TENCON.2018.8650369" class="btn btn--info">DOI</a>
 <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:Xsvlk5wBkn4J:scholar.google.com/&output=citation&scisdr=CgWw747xEPCO8ByejTQ:AAGBfm0AAAAAXuublTQWpPVAYiJJCHvWHINbX3z9SLBJ&scisig=AAGBfm0AAAAAXuublYcY1xGxwVd1ynN5-jHHtExoripX&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn--info">BibTeX</a>  
 
