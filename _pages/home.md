@@ -16,7 +16,7 @@ Recent Publications
 **Generating Adversarial Examples Using Uniform Pixels and Neighbor Aggregation**  
 Glenn Paul P. Gara and Arnulfo P. Azcarraga  
 *20th Philippine Computing Science Congress, 2020*  
-<a href="#" class="btn btn--info">Published Copy</a>
+<a href="#" class="btn btn--info">PDF</a>
 <a href="#" class="btn btn--info">BibTeX</a>  
 
 **A Model Based Prediction of Desirable Applicants through Employee’s Perception of Retention and Performance**  
@@ -24,7 +24,14 @@ Eduardo B. Santiago and Glenn Paul P. Gara
 *IEEE 10th International Conference on Humanoid, Nanotechnology, Information Technology,Communication and Control, Environment and Management (HNICEM), 2018*  
 <a href="#" class="btn btn--info">PDF</a>
 <a href="https://doi.org/10.1109/HNICEM.2018.8666397" class="btn btn--info">DOI</a>
-<a href="#" class="btn btn--info">BibTeX</a>
+<a href="#" class="btn btn--info">BibTeX</a>  
+
+**RISC-Based Simulation of Longest Common Subsequence Algorithm in MIPS64 Simulators**  
+Glenn Paul P. Gara, Mark Phil B. Pacot and Roger Luis T. Uy   
+*TENCON 2018 - 2018 IEEE Region 10 Conference*  
+<a href="#" class="btn btn--info">PDF</a>
+<a href="https://doi.org/10.1109/TENCON.2018.8650369" class="btn btn--info">DOI</a>
+<a href="#" class="btn btn--info">BibTeX</a>  
 
 News and Updates
 ------
