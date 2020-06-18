@@ -15,8 +15,8 @@ Recent Publications
 ------
 ![image-center](/assets/images/bio-photo.jpg){: .align-left height="150" width="150"}
 Generating Adversarial Examples Using Uniform Pixels and Neighbor Aggregation
-<a href="#" class="btn btn--primary">Link Text</a>
-<a href="#" class="btn btn--primary">Link Text</a>
+<a href="#" class="btn btn--primary">PDF</a>
+<a href="#" class="btn btn--primary">BibTeX</a>
 
 
 News and Updates
