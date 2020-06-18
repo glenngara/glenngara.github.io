@@ -14,19 +14,9 @@ Currently, I'm working on my PhD dissertation about the theory and development o
 Recent Publications
 ------
 **Generating Adversarial Examples Using Uniform Pixels and Neighbor Aggregation**  
-Gara,
-<a href="#" class="btn btn--primary">PDF</a>
-<a href="#" class="btn btn--primary">BibTeX</a>  
-
-<details>
-  <summary><a href="" class="btn btn--primary">PDF</a></summary>
-
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-</details>
+Glenn Paul Gara and Arnulfo Azcarraga
+<a href="#" class="btn btn--info">PDF</a>
+<a href="#" class="btn btn--info">BibTeX</a>  
 
 
 News and Updates
