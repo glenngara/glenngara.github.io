@@ -14,7 +14,8 @@ Currently, I'm working on my PhD dissertation about the theory and development o
 Recent Publications
 ------
 **Generating Adversarial Examples Using Uniform Pixels and Neighbor Aggregation**  
-Glenn Paul Gara and Arnulfo Azcarraga
+Glenn Paul Gara and Arnulfo Azcarraga  
+20th Philippine Computing Science Congress  
 <a href="#" class="btn btn--info">PDF</a>
 <a href="#" class="btn btn--info">BibTeX</a>  
 
