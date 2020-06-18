@@ -11,6 +11,10 @@ I am passionate about Machine Learning and Artificial Intelligence, and its appl
 
 Currently, I'm working on my PhD dissertation about the theory and development of a shallow neural network architecture and an incremental learning algorithm.
 
+Recent Publications
+------
+<a href="#" class="btn btn--primary">Link Text</a>
+
 News and Updates
 ------
 **Jun 18, 2020**  
