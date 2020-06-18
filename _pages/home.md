@@ -24,7 +24,7 @@ Eduardo B. Santiago and [Glenn Paul P. Gara](/)
 *IEEE 10th International Conference on Humanoid, Nanotechnology, Information Technology,Communication and Control, Environment and Management (HNICEM), 2018*  
 <a href="/assets/files/publications/santiago2018_amodelbased.pdf" class="btn btn--info">PDF</a>
 <a href="https://doi.org/10.1109/HNICEM.2018.8666397" class="btn btn--info">DOI</a>
-<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:yXP1xunUpScJ:scholar.google.com/&output=citation&scisdr=CgWw747xEPCO8Byf5JE:AAGBfm0AAAAAXuua_JEg3e5cvC1Rm4HkvDVxvsF7uMFV&scisig=AAGBfm0AAAAAXuua_FlLDsXCHbl0PBu-x2Fa0yy-g3WL&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1" class="btn btn--info">BibTeX</a>  
+<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:yXP1xunUpScJ:scholar.google.com/&output=citation&scisdr=CgWw747xEPCO8ByY_uw:AAGBfm0AAAAAXuud5uy4GIu_iHpPio0unkRlzs1B8GhQ&scisig=AAGBfm0AAAAAXuud5gPsKSur4CfuadGIJyc0tv0J-9sX&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn--info">BibTeX</a>  
 
 **RISC-Based Simulation of Longest Common Subsequence Algorithm in MIPS64 Simulators**  
 [Glenn Paul P. Gara](/), Mark Phil B. Pacot and Roger Luis T. Uy   
