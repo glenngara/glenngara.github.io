@@ -13,7 +13,7 @@ Currently, I'm working on my PhD dissertation about the theory and development o
 
 Recent Publications
 ------
-![image-center](/assets/images/bio-photo.jpg){: .align-center}
+![image-center](/assets/images/bio-photo.jpg){: .align-left}
 Generating Adversarial Examples Using Uniform Pixels and Neighbor Aggregation
 <a href="#" class="btn btn--primary">Link Text</a>
 
