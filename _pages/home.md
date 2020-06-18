@@ -17,9 +17,9 @@ Recent Publications
 Gara,
 <a href="#" class="btn btn--primary">PDF</a>
 <a href="#" class="btn btn--primary">BibTeX</a>  
-# A collapsible section with markdown
+
 <details>
-  <summary>Click to expand!</summary>
+  <summary><a href="" class="btn btn--primary">PDF</a></summary>
 
   ## Heading
   1. A numbered
