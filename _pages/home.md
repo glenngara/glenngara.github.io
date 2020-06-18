@@ -3,7 +3,6 @@ permalink: /
 layout: single
 title: "About Me"
 author_profile: true
-classes: wide
 ---
 
 I work as an Assistant Professor at the College of Computer Studies, [University of the Immaculate Conception](https://www.uic.edu.ph), College of Computer Studies. In 2017, I started my journey as a PhD student at [De La Salle University-Manila](https://www.dlsu.edu.ph) and a researcher at the [Center for Complexity and Emerging Technologies](https://comet.dlsu.edu.ph) at the same time. At the lab, I conduct research on the structure and dynamics of a research collaboration network through structural analysis and network visualization.
