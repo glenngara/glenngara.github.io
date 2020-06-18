@@ -39,7 +39,7 @@ News and Updates
 I will be teaching the CC212: Information Management course this coming first semester of school year 2020-2021 at [UIC College of Computer Studies](https://www.uic.edu.ph/ite/).
 
 **Jun 4, 2020**  
-Conducted a training on Digital Platform using Google Suite, participated by [College of Pharmacy and Chemistry](https://www.uic.edu.ph/pharmchem/) of the University of the Immaculate Conception.
+Conducted a training on Digital Platform using Google Suite, participated by the faculty of [College of Pharmacy and Chemistry](https://www.uic.edu.ph/pharmchem/) of the University of the Immaculate Conception.
 
 **Jun 3, 2020**  
 Facilitated a training session on Infographics creation using [Canva](http://canva.com), participated by the Online Course Design Team of the University of the Immaculate Conception.
