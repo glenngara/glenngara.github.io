@@ -22,7 +22,7 @@ Recent Publications
 **A Model Based Prediction of Desirable Applicants through Employee’s Perception of Retention and Performance**  
 Eduardo B. Santiago and [Glenn Paul P. Gara](/)  
 *IEEE 10th International Conference on Humanoid, Nanotechnology, Information Technology,Communication and Control, Environment and Management (HNICEM), 2018*  
-<a href="#" class="btn btn--info">PDF</a>
+<a href="/assets/files/pdf-publications/gara2020_generatingadv.pdf" class="btn btn--info">PDF</a>
 <a href="https://doi.org/10.1109/HNICEM.2018.8666397" class="btn btn--info">DOI</a>
 <a href="#" class="btn btn--info">BibTeX</a>  
 
