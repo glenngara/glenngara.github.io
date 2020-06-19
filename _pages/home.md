@@ -33,8 +33,8 @@ Eduardo B. Santiago & [Glenn Paul P. Gara](/)
 *2018 IEEE Region 10 Conference (TENCON 2018)*  
 <a href="/assets/files/publications/lcs-risc-simulation/gara2018_riscbased.pdf" class="btn btn--info">PDF</a>
 <a href="10.1109/TENCON.2018.8650369" class="btn btn--info">DOI</a>
-<a href="/publications/lcs-risc-simulation/gara2018_riscbased#bibtex" class="btn btn--info">BibTeX</a>
-<a href="/publications/lcs-risc-simulation/gara2018_riscbased#cite" class="btn btn--info">Cite</a>
+<a href="/publications/lcs-risc-simulation#bibtex" class="btn btn--info">BibTeX</a>
+<a href="/publications/lcs-risc-simulation#cite" class="btn btn--info">Cite</a>
 
 News and Updates
 ------
