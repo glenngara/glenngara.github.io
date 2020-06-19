@@ -2,6 +2,8 @@
 permalink: /publications/lcs-risc-simulation/
 layout: single
 title: "RISC-Based Simulation of Longest Common Subsequence Algorithm in MIPS64 Simulators"
+image:
+  feature: gara2018_riscbased.jpg
 author_profile: true
 classes: wide
 ---
