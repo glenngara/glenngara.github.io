@@ -45,7 +45,7 @@ Conducted a training on Digital Platform using Google Suite, participated by the
 Facilitated a training session on Infographics creation using [Canva](http://canva.com), participated by the Online Course Design Team of the University of the Immaculate Conception.
 
 **May 29, 2020**  
-[Published my first Towards Data Science article on Extreme Learning Machines](https://towardsdatascience.com/build-an-extreme-learning-machine-in-python-91d1e8958599). This will be the start of my journey in writing articles on topics related to my PhD dissertation. [Follow me on medium](https://medium.com/@glenngara).
+[Published my first Towards Data Science article on Extreme Learning Machines](https://towardsdatascience.com/build-an-extreme-learning-machine-in-python-91d1e8958599). This will be the start of my journey in writing articles on topics related to my PhD dissertation. [You can follow me on medium](https://medium.com/@glenngara).
 
 **Mar 20, 2020**  
 Submitted our video presentation of our recently accepted paper on adversarial example generation in the [20th Philippine Computing Science Congress](https://sites.google.com/view/pcsc-2020/home).
