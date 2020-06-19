@@ -19,6 +19,14 @@ Instructor of Information Technology courses (Web Programming, Database Manageme
 
 Education
 ------
-**Doctor of Philosophy in Computer Science**, De La Salle University, Dissertation Writing  
-**Master in Information Technology**, University of the Immaculate Conception, 2014  
-**Bachelor of Science in Information Technology**, University of Southeastern Philippines, 2012  
+**Doctor of Philosophy in Computer Science**, Dissertation Writing  
+De La Salle University  
+Manila, Philippines  
+
+**Master in Information Technology**, 2014  
+University of the Immaculate Conception  
+Davao City, Philippines  
+
+**Bachelor of Science in Information Technology**, 2012  
+University of Southeastern Philippines  
+Davao City, Philippines  
