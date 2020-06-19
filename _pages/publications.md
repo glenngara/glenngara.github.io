@@ -30,12 +30,13 @@ Eduardo B. Santiago & [Glenn Paul P. Gara](/)
 <a href="/publications/lcs-risc-simulation#bibtex" class="btn btn--info">BibTeX</a>
 <a href="/publications/lcs-risc-simulation#cite" class="btn btn--info">Cite</a>
 
-**LeafCheckIT: A Banana Leaf Analyzer for Identifying Macronutrient Deficiency**  
+[**LeafCheckIT: A Banana Leaf Analyzer for Identifying Macronutrient Deficiency**](/publications/leafcheckit/){: style="color: #01607C"}    
 Jonilyn A. Tejada & [Glenn Paul P. Gara](/)  
 *3rd International Conference on Communication and Information Processing, 2017*  
-<a href="/assets/files/publications/tejada2017_leafcheckit.pdf" class="btn btn--info">PDF</a>
+<a href="/assets/files/publications/leafcheckit/tejada2017_leafcheckit.pdf" class="btn btn--info">PDF</a>
 <a href="https://doi.org/10.1145/3162957.3163035" class="btn btn--info">DOI</a>
-<a href="" class="btn btn--info">BibTeX</a>
+<a href="/publications/leafcheckit#bibtex" class="btn btn--info">BibTeX</a>
+<a href="/publications/leafcheckit#cite" class="btn btn--info">Cite</a>
 
 **Mining Association Rules on Students' Profiles and Personality Types**  
 [Glenn Paul P. Gara](/) & Francis Rey F. Padao  
