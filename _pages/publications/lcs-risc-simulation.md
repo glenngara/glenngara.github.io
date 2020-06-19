@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-Eduardo B. Santiago & Glenn Paul P. Gara  
+Glenn Paul P. Gara, Mark Phil B. Pacot & Roger Luis T. Uy   
 *2018 IEEE Region 10 Conference (TENCON 2018)*
 
 ![image-center](/assets/files/publications/lcs-risc-simulation/gara2018_riscbased.jpg){: .align-center height="450" width="700"}
