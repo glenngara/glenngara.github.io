@@ -9,16 +9,13 @@ author_profile: true
 Education
 ------
 **Doctor of Philosophy in Computer Science**, Dissertation Writing  
-De La Salle University  
-Manila, Philippines  
+De La Salle University, Manila, Philippines  
 
 **Master in Information Technology**, 2014  
-University of the Immaculate Conception  
-Davao City, Philippines  
+University of the Immaculate Conception, Davao City, Philippines  
 
 **Bachelor of Science in Information Technology**, 2012  
-University of Southeastern Philippines  
-Davao City, Philippines  
+University of Southeastern Philippines, Davao City, Philippines  
 
 Affiliations
 ------
