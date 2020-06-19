@@ -8,4 +8,4 @@ author_profile: true
 
 Glenn Paul P. Gara & Arnulfo P. Azcarraga
 
-![image-center](/publications/generating-adversarial-examples/gara2020_generatingadv.jpg){: .align-center}
+![image-center](/assets/files/publications/generating-adversarial-examples/gara2020_generatingadv.jpg){: .align-center}
