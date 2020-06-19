@@ -24,7 +24,7 @@ Selecting desirable applicants for an organization who has less tendency to quit
   booktitle     = {2018 IEEE 10th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment and Management (HNICEM)},
   year          = {2018},
   location      = {Baguio City, Philippines},
-  DOI           = {10.1109/HNICEM.2018.8666397},
+  doi           = {10.1109/HNICEM.2018.8666397},
   organization  = {IEEE}
 }
 ```
