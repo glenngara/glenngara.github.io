@@ -13,7 +13,7 @@ Currently, I'm working on my PhD dissertation about the theory and development o
 
 Recent Publications
 ------
-[**Generating Adversarial Examples Using Uniform Pixels and Neighbor Aggregation**](/publications/generating-adversarial-examples/){: style="color: red"}  
+[**Generating Adversarial Examples Using Uniform Pixels and Neighbor Aggregation**](/publications/generating-adversarial-examples/){: style="color: #01607C"}  
 [Glenn Paul P. Gara](/) & Arnulfo P. Azcarraga  
 *20th Philippine Computing Science Congress, 2020*  
 <a href="/assets/files/publications/generating-adversarial-examples/gara2020_generatingadversarial.pdf" class="btn btn--info">PDF</a>
