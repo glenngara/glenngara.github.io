@@ -4,6 +4,8 @@ layout: single
 title: "A Model Based Prediction of Desirable Applicants through Employee’s Perception of Retention and Performance"
 author_profile: true
 classes: wide
+header:
+  og_image: /assets/files/publications/desirable-applicants-prediction/santiago2018_amodelbased.jpg
 ---
 
 Eduardo B. Santiago & Glenn Paul P. Gara  

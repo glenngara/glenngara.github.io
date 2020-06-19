@@ -4,6 +4,8 @@ layout: single
 title: "RISC-Based Simulation of Longest Common Subsequence Algorithm in MIPS64 Simulators"
 author_profile: true
 classes: wide
+header:
+  og_image: /assets/files/publications/lcs-risc-simulation/gara2018_riscbased.jpg
 ---
 
 Glenn Paul P. Gara, Mark Phil B. Pacot & Roger Luis T. Uy   
