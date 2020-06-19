@@ -12,6 +12,7 @@ Conference
 *20th Philippine Computing Science Congress, 2020*  
 <a href="/assets/files/publications/generating-adversarial-examples/gara2020_generatingadversarial.pdf" class="btn btn--info">PDF</a>
 <a href="/publications/generating-adversarial-examples#bibtex" class="btn btn--info">BibTeX</a>
+<a href="/publications/generating-adversarial-examples#cite" class="btn btn--info">Cite</a>
 
 **A Model Based Prediction of Desirable Applicants through Employee’s Perception of Retention and Performance**  
 Eduardo B. Santiago & [Glenn Paul P. Gara](/)  

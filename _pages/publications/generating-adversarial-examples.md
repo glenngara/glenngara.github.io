@@ -29,3 +29,8 @@ pages={7--13},
 organization={Computing Society of the Philippines}
 }
 ```
+
+###### Cite
+```
+Gara, G., & Azcarraga, A. (2020). Generating Adversarial Examples Using Uniform Pixels and Neighbor Aggregation. In Proceedings of the 20th Philippine Computing Science Congress (pp. 7–13).
+```
