@@ -31,5 +31,5 @@ Selecting desirable applicants for an organization who has less tendency to quit
 
 ###### Cite
 ```
-Santiago, E., & Gara, G. (2018). A Model Based Prediction of Desirable Applicants through Employee’s Perception of Retention and Performance. In 2018 IEEE 10th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment and Management (HNICEM).
+E. B. Santiago and G. P. P. Gara, "A Model Based Prediction of Desirable Applicants through Employee’s Perception of Retention and Performance," 2018 IEEE 10th International Conference on Humanoid, Nanotechnology, Information Technology,Communication and Control, Environment and Management (HNICEM), Baguio City, Philippines, 2018, pp. 1-6, doi: 10.1109/HNICEM.2018.8666397.
 ```

@@ -31,5 +31,5 @@ The longest common subsequence (LCS) is an essential technique in the sequence a
 
 ###### Cite
 ```
-Gara, G., Pacot, M., & Uy, R. (2018). RISC-Based Simulation of Longest Common Subsequence Algorithm in MIPS64 Simulators. In TENCON 2018 - 2018 IEEE Region 10 Conference.
+G. P. P. Gara, M. P. B. Pacot and R. L. T. Uy, "RISC-Based Simulation of Longest Common Subsequence Algorithm in MIPS64 Simulators," TENCON 2018 - 2018 IEEE Region 10 Conference, Jeju, Korea (South), 2018, pp. 0811-0814, doi: 10.1109/TENCON.2018.8650369.
 ```

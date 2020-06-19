@@ -18,7 +18,7 @@ Conference
 Eduardo B. Santiago & [Glenn Paul P. Gara](/)  
 *IEEE 10th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment and Management (HNICEM), 2018*  
 <a href="/assets/files/publications/desirable-applicants-prediction/santiago2018_amodelbased.pdf" class="btn btn--info">PDF</a>
-<a href="10.1109/HNICEM.2018.8666397" class="btn btn--info">DOI</a>
+<a href="https://doi.org/10.1109/HNICEM.2018.8666397" class="btn btn--info">DOI</a>
 <a href="/publications/desirable-applicants-prediction#bibtex" class="btn btn--info">BibTeX</a>
 <a href="/publications/desirable-applicants-prediction#cite" class="btn btn--info">Cite</a>
 
@@ -26,7 +26,7 @@ Eduardo B. Santiago & [Glenn Paul P. Gara](/)
 [Glenn Paul P. Gara](/), Mark Phil B. Pacot & Roger Luis T. Uy   
 *2018 IEEE Region 10 Conference (TENCON 2018)*  
 <a href="/assets/files/publications/lcs-risc-simulation/gara2018_riscbased.pdf" class="btn btn--info">PDF</a>
-<a href="10.1109/TENCON.2018.8650369" class="btn btn--info">DOI</a>
+<a href="https://doi.org/10.1109/HNICEM.2018.8666397" class="btn btn--info">DOI</a>
 <a href="/publications/lcs-risc-simulation#bibtex" class="btn btn--info">BibTeX</a>
 <a href="/publications/lcs-risc-simulation#cite" class="btn btn--info">Cite</a>
 
