@@ -121,7 +121,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/glenngara"
     - label: "Medium"
-      icon: "fab fa-medium"
+      icon: "fab fa-fw fa-medium"
       url: "https://https://medium.com/@glenngara"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
