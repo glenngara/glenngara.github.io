@@ -5,7 +5,7 @@ title: "LeafCheckIT: A Banana Leaf Analyzer for Identifying Macronutrient Defici
 author_profile: true
 classes: wide
 header:
-  og_image: /assets/images/tejada2017_leafcheckit.jpg
+  og_image: /assets/files/publications/generating-adversarial-examples/gara2020_generatingadversarial.jpg
 ---
 
 Jonilyn A. Tejada & Glenn Paul P. Gara
