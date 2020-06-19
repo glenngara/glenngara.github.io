@@ -20,12 +20,13 @@ Recent Publications
 <a href="/publications/generating-adversarial-examples#bibtex" class="btn btn--info">BibTeX</a>
 <a href="/publications/generating-adversarial-examples#cite" class="btn btn--info">Cite</a>
 
-**A Model Based Prediction of Desirable Applicants through Employee’s Perception of Retention and Performance**  
-Eduardo B. Santiago and [Glenn Paul P. Gara](/)  
+[**A Model Based Prediction of Desirable Applicants through Employee’s Perception of Retention and Performance**](/publications/desirable-applicants-prediction/)  
+Eduardo B. Santiago & [Glenn Paul P. Gara](/)  
 *IEEE 10th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment and Management (HNICEM), 2018*  
-<a href="/assets/files/publications/santiago2018_amodelbased.pdf" class="btn btn--info">PDF</a>
-<a href="https://doi.org/10.1109/HNICEM.2018.8666397" class="btn btn--info">DOI</a>
-<a href="" class="btn btn--info">BibTeX</a>  
+<a href="/assets/files/publications/desirable-applicants-prediction/santiago2018_amodelbased.pdf" class="btn btn--info">PDF</a>
+<a href="10.1109/HNICEM.2018.8666397" class="btn btn--info">DOI</a>
+<a href="/publications/desirable-applicants-prediction#bibtex" class="btn btn--info">BibTeX</a>
+<a href="/publications/desirable-applicants-prediction#cite" class="btn btn--info">Cite</a>
 
 **RISC-Based Simulation of Longest Common Subsequence Algorithm in MIPS64 Simulators**  
 [Glenn Paul P. Gara](/), Mark Phil B. Pacot and Roger Luis T. Uy   
