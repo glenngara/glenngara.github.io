@@ -2,7 +2,7 @@
 permalink: /publications/leafcheckit/
 layout: single
 title: "LeafCheckIT: A Banana Leaf Analyzer for Identifying Macronutrient Deficiency"
-author_profile: true
+author_profile: false
 classes: wide
 ---
 
