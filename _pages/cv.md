@@ -30,3 +30,10 @@ Davao City, Philippines
 **Bachelor of Science in Information Technology**, 2012  
 University of Southeastern Philippines  
 Davao City, Philippines  
+
+Affiliations
+------
+**ACM International Conference on Communication and Information Processing**, Technical Committee
+**International Association of Engineers**, Member
+**Computing Society of the Philippines**, Member
+**Philippine Society of Information Technology Educators**, Member
