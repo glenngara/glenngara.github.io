@@ -28,6 +28,17 @@ Asst. Professor in College of Computer Studies; Academic Coordinator (2016-2017)
 **AMA Computer College - Davao**, 2012-2014  
 Instructor of Information Technology courses (Web Programming, Database Management Systems, Software Engineering) in undergraduate level
 
+Awards and Grants
+------
+**PhD Scholarship Grant Recipient**, 2017-Present    
+Commission on Higher Education
+
+**Best Student Paper Award**, 2015  
+IAENG International Conference on Data Mining and Applications  
+
+**Undergraduate Scholarship Grant**, 2008-2012  
+Oplan Kaalam Scholarship Program  
+
 Affiliations
 ------
 **ACM International Conference on Communication and Information Processing**  
