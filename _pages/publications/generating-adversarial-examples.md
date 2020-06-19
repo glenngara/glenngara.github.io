@@ -17,14 +17,13 @@ Deep neural networks have gained popularity due to its exceptional performance o
 
 <a href="/assets/files/publications/generating-adversarial-examples/gara2020_generatingadversarial.pdf" class="btn btn--info">Download PDF</a>
 
-
 ```
 @inproceedings{gara2020_generatingadversarial,
 title={Generating Adversarial Examples Using Uniform Pixels and Neighbor Aggregation},
 author={Gara, Glenn Paul P. and Azcarraga, Arnulfo P.},
 booktitle={Proceedings of the 20th Philippine Computing Science Congress},
 year={2020},
-location=
+location={Baguio City, Philippines},
 pages={7--13},
 organization={Computing Society of the Philippines}
 }
