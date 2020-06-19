@@ -5,7 +5,6 @@ title: "LeafCheckIT: A Banana Leaf Analyzer for Identifying Macronutrient Defici
 author_profile: true
 classes: wide
 header:
-  image: /assets/images/tejada2017_leafcheckit.jpg
   og_image: /assets/images/tejada2017_leafcheckit.jpg
 ---
 
