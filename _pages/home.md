@@ -13,11 +13,12 @@ Currently, I'm working on my PhD dissertation about the theory and development o
 
 Recent Publications
 ------
-**Generating Adversarial Examples Using Uniform Pixels and Neighbor Aggregation**  
-[Glenn Paul P. Gara](/) and Arnulfo P. Azcarraga  
+[**Generating Adversarial Examples Using Uniform Pixels and Neighbor Aggregation**](/publications/generating-adversarial-examples/)  
+[Glenn Paul P. Gara](/) & Arnulfo P. Azcarraga  
 *20th Philippine Computing Science Congress, 2020*  
-<a href="/assets/files/publications/gara2020_generatingadv.pdf" class="btn btn--info">PDF</a>
-<a href="#" class="btn btn--info">BibTeX</a>  
+<a href="/assets/files/publications/generating-adversarial-examples/gara2020_generatingadversarial.pdf" class="btn btn--info">PDF</a>
+<a href="/publications/generating-adversarial-examples#bibtex" class="btn btn--info">BibTeX</a>
+<a href="/publications/generating-adversarial-examples#cite" class="btn btn--info">Cite</a>
 
 **A Model Based Prediction of Desirable Applicants through Employee’s Perception of Retention and Performance**  
 Eduardo B. Santiago and [Glenn Paul P. Gara](/)  
