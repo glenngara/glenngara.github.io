@@ -7,7 +7,7 @@ author_profile: true
 
 Conference
 ------
-[**Generating Adversarial Examples Using Uniform Pixels and Neighbor Aggregation**](/publications/gara2020_generatingadv)  
+[**Generating Adversarial Examples Using Uniform Pixels and Neighbor Aggregation**](/publications/generating-adversarial-examples/)  
 [Glenn Paul P. Gara](/) and Arnulfo P. Azcarraga  
 *20th Philippine Computing Science Congress, 2020*  
 <a href="/assets/files/publications/gara2020_generatingadv.pdf" class="btn btn--info">PDF</a>
