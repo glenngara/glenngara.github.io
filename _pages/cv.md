@@ -55,17 +55,22 @@ Member, 2014-Present
 
 Selected Talks, Presentations and Participations
 ------
-**IEEE TENCON 2018**, Paper Presenter  
-Jeju Island, South Korea, 2018
+**IEEE TENCON 2018**  
+Jeju Island, South Korea, 2018  
+Paper Presenter
 
-**NTU Winter School on Complexity Science**, Participant  
+**NTU Winter School on Complexity Science**    
 Nanyang Technological University, Singapore, 2018
+Participant
 
-**Data Analytics Congress: A Convergence of Data Analysts**, Invited Talk  
-Ateneo de Davao University, 2016
+**Data Analytics Congress: A Convergence of Data Analysts**  
+Ateneo de Davao University, 2016  
+Invited Talk
 
-**International MultiConference of Engineers and Computer Scientists**, Paper Presenter  
+**International MultiConference of Engineers and Computer Scientists**  
 Royal Garden Hotel, Hong Kong, 2015  
+Paper Presenter
 
-**Mindanao Conference for Information Technology Educators**, Invited Talk  
-Ateneo de Davao University, 2014
+**Mindanao Conference for Information Technology Educators**  
+Ateneo de Davao University, 2014  
+Invited Talk
