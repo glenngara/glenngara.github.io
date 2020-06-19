@@ -52,3 +52,6 @@ Member, 2017-Present
 
 **Philippine Society of Information Technology Educators**  
 Member, 2014-Present
+
+Talks, Presentations and Participations
+------
