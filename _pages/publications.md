@@ -18,7 +18,7 @@ Conference
 Eduardo B. Santiago & [Glenn Paul P. Gara](/)  
 *IEEE 10th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment and Management (HNICEM), 2018*  
 <a href="/assets/files/publications/desirable-applicants-prediction/santiago2018_amodelbased.pdf" class="btn btn--info">PDF</a>
-<a href="https://doi.org/10.1109/HNICEM.2018.8666397" class="btn btn--info">DOI</a>
+<a href="10.1109/HNICEM.2018.8666397" class="btn btn--info">DOI</a>
 <a href="/publications/desirable-applicants-prediction#bibtex" class="btn btn--info">BibTeX</a>
 <a href="/publications/desirable-applicants-prediction#cite" class="btn btn--info">Cite</a>
 
