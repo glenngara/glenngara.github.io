@@ -6,7 +6,6 @@ author_profile: true
 classes: wide
 ---
 
-
 Glenn Paul P. Gara & Arnulfo P. Azcarraga  
 *20th Philippine Computing Science Congress, 2020*
 
