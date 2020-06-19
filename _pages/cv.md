@@ -53,5 +53,19 @@ Member, 2017-Present
 **Philippine Society of Information Technology Educators**  
 Member, 2014-Present
 
-Talks, Presentations and Participations
+Selected Talks, Presentations and Participations
 ------
+**IEEE TENCON 2018**, Paper Presenter  
+Jeju Island, South Korea, 2018
+
+**NTU Winter School on Complexity Science**, Participant  
+Nanyang Technological University, Singapore, 2018
+
+**Data Analytics Congress: A Convergence of Data Analysts**, Invited Talk  
+Ateneo de Davao University, 2016
+
+**International MultiConference of Engineers and Computer Scientists**, Paper Presenter  
+Royal Garden Hotel, Hong Kong, 2015  
+
+**Mindanao Conference for Information Technology Educators**, Invited Talk  
+Ateneo de Davao University, 2014
