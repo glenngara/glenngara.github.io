@@ -39,3 +39,11 @@ Jonilyn A. Tejada and [Glenn Paul P. Gara](/)
 *International Multiconference of Engineers and Computer Scientists, 2015*  
 <a href="/assets/files/publications/gara2015_miningassociation.pdf" class="btn btn--info">PDF</a>
 <a href="" class="btn btn--info">BibTeX</a>
+
+Journal
+------
+**Correlation Analysis of Profiles and Personality Types Using Association Rule Learning Algorithm**  
+[Glenn Paul P. Gara](/) and Francis Rey F. Padao  
+*IAENG Transactions on Engineering Sciences: Special Issue for the International Association of Engineers Conferences 2015*  
+<a href="https://doi.org/10.1142/9789813142725_0008" class="btn btn--info">DOI</a>
+<a href="" class="btn btn--info">BibTeX</a>
