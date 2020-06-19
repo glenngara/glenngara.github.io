@@ -3,6 +3,7 @@ permalink: /publications/gara2020_generatingadv/
 layout: single
 title: "Publications"
 author_profile: false
+classes: wide
 ---
 
 Conference
