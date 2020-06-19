@@ -1,5 +1,5 @@
 ---
-permalink: /publications/gara2020_generatingadv/
+permalink: /publications/generating-adversarial-examples/
 layout: splash
 title: "Generating Adversarial Examples Using Uniform Pixels and Neighbor Aggregation"
 author_profile: true
