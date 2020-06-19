@@ -1,7 +1,7 @@
 ---
 permalink: /publications/gara2020_generatingadv/
-layout: single
-title: "Publications"
+layout: splash
+title: "Generating Adversarial Examples Using Uniform Pixels and Neighbor Aggregation"
 author_profile: false
 classes: wide
 ---
