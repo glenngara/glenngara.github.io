@@ -31,5 +31,5 @@ The longest common subsequence (LCS) is an essential technique in the sequence a
 
 ###### Cite
 ```
-Santiago, E., & Gara, G. (2018). A Model Based Prediction of Desirable Applicants through Employee’s Perception of Retention and Performance. In 2018 IEEE 10th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment and Management (HNICEM).
+Gara, G., Pacot, M., & Uy, R. (2018). RISC-Based Simulation of Longest Common Subsequence Algorithm in MIPS64 Simulators. In TENCON 2018 - 2018 IEEE Region 10 Conference.
 ```
