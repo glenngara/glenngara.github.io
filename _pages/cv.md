@@ -1,16 +1,10 @@
 ---
 permalink: /cv/
 layout: single
-title: "About Me"
+title: "Curriculum Vitae"
 author_profile: true
 ---
-this is my cv
-
-I work as an Assistant Professor at the [University of the Immaculate Conception](https://www.uic.edu.ph), College of Computer Studies. In 2017, I started my journey as a PhD student and researcher at [De La Salle University-Manila](https://www.dlsu.edu.ph) and [DLSU Center for Complexity and Emerging Technologies](https://comet.dlsu.edu.ph), respectively. At the lab, I conduct research on the structure and dynamics of a research collaboration network through structural analysis and network visualization.
-
-I am passionate about Machine Learning and Artificial Intelligence, and its applications in machine vision and complex networks. I am also motivated to helping people build data-driven solutions even without a machine learning background.
-
-Currently, I'm working on my PhD dissertation about the theory and development of a shallow neural network architecture and an incremental learning algorithm.
+<a href="/assets/files/cv-glenngara.pdf" class="btn btn--info">Download CV</a>
 
 Recent Publications
 ------
