@@ -32,4 +32,10 @@ Jonilyn A. Tejada and [Glenn Paul P. Gara](/)
 *3rd International Conference on Communication and Information Processing, 2017*  
 <a href="/assets/files/publications/tejada2017_leafcheckit.pdf" class="btn btn--info">PDF</a>
 <a href="https://doi.org/10.1145/3162957.3163035" class="btn btn--info">DOI</a>
-<a href="" class="btn btn--info">BibTeX</a>  
+<a href="" class="btn btn--info">BibTeX</a>
+
+**Mining Association Rules on Students Profiles and Personality Types**
+[Glenn Paul P. Gara](/) and Francis Rey F. Padao  
+*International Multiconference of Engineers and Computer Scientists, 2015*  
+<a href="/assets/files/publications/gara2015_miningassociation.pdf" class="btn btn--info">PDF</a>
+<a href="" class="btn btn--info">BibTeX</a>
