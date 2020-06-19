@@ -2,7 +2,6 @@
 permalink: /publications/leafcheckit/
 layout: single
 title: "LeafCheckIT: A Banana Leaf Analyzer for Identifying Macronutrient Deficiency"
-image: tejada2017_leafcheckit.jpg
 author_profile: true
 classes: wide
 ---
@@ -10,7 +9,7 @@ classes: wide
 Jonilyn A. Tejada & Glenn Paul P. Gara
 *3rd International Conference on Communication and Information Processing, 2017*
 
-![leafcheckit](/assets/images/tejada2017_leafcheckit.jpg){: .align-center height="450" width="700"}
+![leafcheckit](/assets/files/publications/leafcheckit/tejada2017_leafcheckit.jpg){: .align-center height="450" width="700"}
 
 ###### Abstract
 Nutrient deficiency affects the production of banana fruits. Plant malnutrition may visually reflect on their leaves, however, identifying deficiency symptoms could be a difficult task and often requires laboratory tests such as leaf and soil analysis. This paper introduces the LeafCheckIT, a web and mobile application that uses Random Forest machine learning algorithm to identify Nitrogen (N), Phosphorus (P), and Potassium (K) collectively known as macronutrients deficiency symptoms on banana leaves. Based on the training set evaluation and 10-fold cross validation test conducted on WEKA data mining software, the technique used in the application resulted in 100 and 91.64 percent accuracy rate respectively.
