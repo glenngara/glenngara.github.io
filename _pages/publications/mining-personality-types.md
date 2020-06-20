@@ -1,7 +1,7 @@
 ---
 permalink: /publications/mining-personality-types/
 layout: single
-title: "LeafCheckIT: A Banana Leaf Analyzer for Identifying Macronutrient Deficiency"
+title: "Mining Association Rules on Students’ Profiles and Personality Types"
 author_profile: true
 classes: wide
 header:
