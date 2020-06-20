@@ -30,6 +30,7 @@ This study enables graduating high school students to choose an area of speciali
   publisher     = {Newswood Limited},
   location      = {Hong Kong},
   organization  = {IAENG}
+}
 ```
 
 ###### Cite
