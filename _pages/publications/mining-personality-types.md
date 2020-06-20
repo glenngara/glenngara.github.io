@@ -6,6 +6,7 @@ author_profile: true
 classes: wide
 header:
   og_image: /assets/files/publications/mining-personality-types/gara2015_miningassociation.jpg
+  excerpt: "This is a sample text"
 ---
 
 Glenn Paul P. Gara & Francis Rey F. Padao  
