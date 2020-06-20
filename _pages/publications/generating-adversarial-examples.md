@@ -4,8 +4,7 @@ layout: single
 title: "Generating Adversarial Examples Using Uniform Pixels and Neighbor Aggregation"
 author_profile: true
 classes: wide
-header:
-  og_image: /assets/files/publications/generating-adversarial-examples/gara2020_generatingadversarial.jpg
+og_image: /assets/files/publications/generating-adversarial-examples/gara2020_generatingadversarial.jpg
 ---
 
 Glenn Paul P. Gara & Arnulfo P. Azcarraga  
