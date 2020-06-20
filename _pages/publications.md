@@ -30,7 +30,7 @@ Eduardo B. Santiago & [Glenn Paul P. Gara](/)
 <a href="/publications/lcs-risc-simulation#bibtex" class="btn btn--info">BibTeX</a>
 <a href="/publications/lcs-risc-simulation#cite" class="btn btn--info">Cite</a>
 
-[**LeafCheckIT: A Banana Leaf Analyzer for Identifying Macronutrient Deficiency**](/publications/leafcheckit/){: style="color: #3D4144"}    
+[**LeafCheckIT: A Banana Leaf Analyzer for Identifying Macronutrient Deficiency**](/publications/leafcheckit/){: style="color: #3D4144"}  
 Jonilyn A. Tejada & [Glenn Paul P. Gara](/)  
 *3rd International Conference on Communication and Information Processing, 2017*  
 <a href="/assets/files/publications/leafcheckit/tejada2017_leafcheckit.pdf" class="btn btn--info">PDF</a>
@@ -38,8 +38,8 @@ Jonilyn A. Tejada & [Glenn Paul P. Gara](/)
 <a href="/publications/leafcheckit#bibtex" class="btn btn--info">BibTeX</a>
 <a href="/publications/leafcheckit#cite" class="btn btn--info">Cite</a>
 
-[**Mining Association Rules on Students' Profiles and Personality Types**]()  
-[Glenn Paul P. Gara](/publications/mining-personality-types/) & Francis Rey F. Padao  
+[**Mining Association Rules on Students' Profiles and Personality Types**](/publications/mining-personality-types/){: style="color: #3D4144"}  
+[Glenn Paul P. Gara](/) & Francis Rey F. Padao  
 *International MultiConference of Engineers and Computer Scientists, 2015*  
 <a href="/assets/files/publications/mining-personality-types/gara2015_miningassociation.pdf" class="btn btn--info">PDF</a>
 <a href="/publications/mining-personality-types#bibtex" class="btn btn--info">BibTeX</a>
