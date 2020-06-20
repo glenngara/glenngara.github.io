@@ -40,7 +40,7 @@ Jonilyn A. Tejada & [Glenn Paul P. Gara](/)
 
 **Mining Association Rules on Students' Profiles and Personality Types**  
 [Glenn Paul P. Gara](/) & Francis Rey F. Padao  
-*International Multiconference of Engineers and Computer Scientists, 2015*  
+*International MultiConference of Engineers and Computer Scientists, 2015*  
 <a href="/assets/files/publications/gara2015_miningassociation.pdf" class="btn btn--info">PDF</a>
 <a href="" class="btn btn--info">BibTeX</a>
 

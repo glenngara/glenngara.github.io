@@ -68,7 +68,7 @@ Ateneo de Davao University, 2016
 Invited Talk
 
 **International MultiConference of Engineers and Computer Scientists**  
-Royal Garden Hotel, Hong Kong, 2015  
+Kowloon, Hong Kong, 2015  
 Paper Presenter
 
 **Mindanao Conference for Information Technology Educators**  
