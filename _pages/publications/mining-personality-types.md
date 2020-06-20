@@ -8,7 +8,7 @@ header:
   og_image: /assets/files/publications/mining-personality-types/gara2015_miningassociation.jpg
 ---
 
-Glenn Paul P. Gara & Francis Rey F. Padao
+Glenn Paul P. Gara & Francis Rey F. Padao  
 *International MultiConference of Engineers and Computer Scientists, 2015*
 
 ![mining-personality-types](/assets/files/publications/mining-personality-types/gara2015_miningassociation.jpg){: .align-center height="550" width="700"}
