@@ -5,9 +5,9 @@ main:
   - title: "Publications"
     url: /publications/
   - title: "Teaching"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /teaching/
   - title: "Students"
-    url: /year-archive/
+    url: /students/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
