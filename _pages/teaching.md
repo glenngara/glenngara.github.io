@@ -7,13 +7,14 @@ author_profile: true
 
 University of the Immaculate Conception
 ------
-Information Management (CC212)  
-Natural Language Processing  
-Web Programming  
-Object-Oriented Programming  
-Principles of Programming Languages
+* Information Management (CC212)  
+* Natural Language Processing  
+* Web Programming  
+* Object-Oriented Programming  
+* Principles of Programming Languages  
+* Database Management Systems
 
 AMA Computer College - Davao
 ------
-Software Engineering  
-Web Programming  
+* Software Engineering  
+* Web Programming  
