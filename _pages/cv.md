@@ -19,7 +19,7 @@ University of Southeastern Philippines, Davao City, Philippines
 
 Work Experience
 ------
-**SpeechTherapy.ai**, 2020-Presenter
+**SpeechTherapy.ai**, 2020-Present  
 Machine learning engineer; Research and development of artificial intelligence in speech therapy
 
 **DLSU Center for Complexity and Emerging Technologies**, 2017-Present  
