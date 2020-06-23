@@ -14,7 +14,7 @@ summary {background: -webkit-linear-gradient(top, #FAFAFA 50%, #E1E1E1 50%); bor
 summary:hover, details[open] summary {background: #E1E1E1;}
 summary::-webkit-details-marker {display: none}
 summary:before{border-radius: 5px; content: "+"; color: #363636; display: block; float: left; font-size: 1.5em; font-weight: bold; margin: -2px 10px 0 10px; padding: 0; text-align: center; width: 20px;}
-details[open] summary:before {content: "-"; margin-top: -2px;}
+details[open] summary:before {content: "-"; margin-top: -4px;}
 p {font-size: .5em;}
 </style>
 
@@ -28,7 +28,7 @@ Former
 <summary>Darell P. Pulvera</summary>
 <p><br>
 Master in Information Technology, 2019 <br>
-<b><a href="/publications/leafcheckit/">EyeRice: A Rice Disease Identification Mobile Application using Deep Convolutional Neural Network</a></b>
+<b>EyeRice: A Rice Disease Identification Mobile Application using Deep Convolutional Neural Network</b>
 </p>
 </details>
 
@@ -36,7 +36,7 @@ Master in Information Technology, 2019 <br>
 <summary>Vince Joseph W. Venida</summary>
 <p><br>
 Master in Information Technology, 2019 <br>
-**Tuberculosis Surveillance, Knowledge Generation and Decision Support System**
+<b>Tuberculosis Surveillance, Knowledge Generation and Decision Support System</b>
 </p>
 </details>
 
@@ -44,7 +44,7 @@ Master in Information Technology, 2019 <br>
 <summary>Eduardo B. Santiago</summary>
 <p><br>
 Master in Information Technology, 2019 <br>
-**A Model Based Prediction of Desirable Applicants through Employee’s Perception of Retention and Performance**
+<b><a href="/publications/desirable-applicants-predictiont/">A Model Based Prediction of Desirable Applicants through Employee’s Perception of Retention and Performance</a></b>
 </p>
 </details>
 
@@ -52,6 +52,6 @@ Master in Information Technology, 2019 <br>
 <summary>Jonilyn A. Tejada</summary>
 <p><br>
 Master in Information Technology, 2018 <br>
-**LeafCheckIT: A Banana Leaf Analyzer for Identifying Macronutrient Deficiency**
+<b><a href="/publications/leafcheckit/">LeafCheckIT: A Banana Leaf Analyzer for Identifying Macronutrient Deficiency</a></b>
 </p>
 </details>
