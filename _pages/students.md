@@ -15,7 +15,7 @@ summary:hover, details[open] summary {background: #E1E1E1;}
 summary::-webkit-details-marker {display: none}
 summary:before{border-radius: 5px; content: "+"; color: #363636; display: block; float: left; font-size: 1.5em; font-weight: bold; margin: -2px 10px 0 10px; padding: 0; text-align: center; width: 20px;}
 details[open] summary:before {content: "-"; margin-top: -4px;}
-p {font-size: .2em;}
+p {font-size: .65em;}
 </style>
 
 Current
@@ -26,19 +26,27 @@ Former
 ------
 <details>
   <summary>Darell P. Pulvera</summary>
+  <p>
   Master in Information Technology, 2019
+  </p>
 </details>
 <details>
   <summary>Vince Joseph W. Venida</summary>
+  <p>
   Master in Information Technology, 2019
+  </p>
 </details>
 <details>
   <summary>Eduardo B. Santiago</summary>
-  * Master in Information Technology, 2019
-  * A Model Based Prediction of Desirable Applicants through Employee’s Perception of Retention and Performance
+  <p>
+  Master in Information Technology, 2019 <br>
+  A Model Based Prediction of Desirable Applicants through Employee’s Perception of Retention and Performance
+  </p>
 </details>
 <details>
   <summary>Jonilyn A. Tejada</summary>
-  * Master in Information Technology, 2018
-  * LeafCheckIT: A Banana Leaf Analyzer for Identifying Macronutrient Deficiency
+  <p>
+  Master in Information Technology, 2018 <br>
+  LeafCheckIT: A Banana Leaf Analyzer for Identifying Macronutrient Deficiency
+  </p>
 </details>
