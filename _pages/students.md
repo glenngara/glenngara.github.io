@@ -14,7 +14,7 @@ summary {background: -webkit-linear-gradient(top, #FAFAFA 50%, #E1E1E1 50%); bor
 summary:hover, details[open] summary {background: #E1E1E1;}
 summary::-webkit-details-marker {display: none}
 summary:before{border-radius: 5px; content: "+"; color: #363636; display: block; float: left; font-size: 1.5em; font-weight: bold; margin: -2px 10px 0 10px; padding: 0; text-align: center; width: 20px;}
-details[open] summary:before {content: "-"; margin-top: -4px;}
+details[open] summary:before {content: "-"; margin-top: -4px; font-size: .7em;}
 p {font-size: .8em;}
 </style>
 
