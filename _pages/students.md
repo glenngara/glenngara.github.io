@@ -28,6 +28,7 @@ Former
 <summary>Darell P. Pulvera</summary>
 <p>
 Master in Information Technology, 2019 <br>
+EyeRice: A Rice Disease Identification Mobile Application using Deep Convolutional Neural Network
 </p>
 </details>
 
