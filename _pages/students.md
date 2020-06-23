@@ -5,6 +5,30 @@ title: "Students"
 author_profile: true
 ---
 
+<style type="text/css">
+
+summary::-webkit-details-marker {
+  display: none
+}
+summary:after {
+  background: red;
+  border-radius: 5px;
+  content: "+";
+  color: #fff;
+  float: left;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin: -5px 10px 0 0;
+  padding: 0;
+  text-align: center;
+  width: 20px;
+}
+details[open] summary:after {
+  content: "-";
+}
+
+</style>
+
 Current
 ------
 
@@ -12,7 +36,7 @@ Current
 Former
 ------
 <details>
-<font size="10">
+
   <summary>Darell P. Pulvera</summary>
   Master in Information Technology, 2019
 </font>
