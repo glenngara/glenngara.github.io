@@ -10,12 +10,12 @@ author_profile: true
     display: none
   }
   summary:after {
-    background: gray;
+    background: dark-gray;
     border-radius: 5px;
     content: "+";
     color: #fff;
     float: left;
-    font-size: 0.5em;
+    font-size: 0.05em;
     font-weight: bold;
     margin: -5px 10px 0 0;
     padding: 0;
