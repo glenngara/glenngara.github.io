@@ -20,7 +20,37 @@ p {font-size: .5em;}
 
 Current
 ------
+<details>
+<summary>Michelle A. Caiña</summary>
+<p><br>
+Master in Information Technology <br>
+<b>Title</b>
+</p>
+</details>
 
+<details>
+<summary>Cindy A. Lasco</summary>
+<p><br>
+Master in Information Technology <br>
+<b>Title</b>
+</p>
+</details>
+
+<details>
+<summary>Antonette R. Albarracin</summary>
+<p><br>
+Master in Information Technology <br>
+<b>Title</b>
+</p>
+</details>
+
+<details>
+<summary>Jennifer L. Pido</summary>
+<p><br>
+Master in Information Systems <br>
+<b>Title</b>
+</p>
+</details>
 
 Former
 ------
