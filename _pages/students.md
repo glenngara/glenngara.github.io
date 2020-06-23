@@ -6,27 +6,31 @@ author_profile: true
 ---
 
 <style type="text/css">
+  details summary::-webkit-details-marker {
+    background: red;
+    color: #fff;
+    font-size: 500%;
+  }
 
-summary::-webkit-details-marker {
-  display: none
-}
-summary:after {
-  background: red;
-  border-radius: 5px;
-  content: "+";
-  color: #fff;
-  float: left;
-  font-size: 1.5em;
-  font-weight: bold;
-  margin: -5px 10px 0 0;
-  padding: 0;
-  text-align: center;
-  width: 20px;
-}
-details[open] summary:after {
-  content: "-";
-}
-
+  summary::-webkit-details-marker {
+    display: none
+  }
+  summary:after {
+    background: red;
+    border-radius: 5px;
+    content: "+";
+    color: #fff;
+    float: left;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin: -5px 10px 0 0;
+    padding: 0;
+    text-align: center;
+    width: 20px;
+  }
+  details[open] summary:after {
+    content: "-";
+  }
 </style>
 
 Current
