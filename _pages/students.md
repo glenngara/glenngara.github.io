@@ -34,11 +34,11 @@ Former
 </details>
 <details>
   <summary>Eduardo B. Santiago</summary>
-  Master in Information Technology, 2019  
-  A Model Based Prediction of Desirable Applicants through Employee’s Perception of Retention and Performance
+  * Master in Information Technology, 2019
+  * A Model Based Prediction of Desirable Applicants through Employee’s Perception of Retention and Performance
 </details>
 <details>
   <summary>Jonilyn A. Tejada</summary>
-  Master in Information Technology, 2018  
-  LeafCheckIT: A Banana Leaf Analyzer for Identifying Macronutrient Deficiency
+  * Master in Information Technology, 2018
+  * LeafCheckIT: A Banana Leaf Analyzer for Identifying Macronutrient Deficiency
 </details>
