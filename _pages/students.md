@@ -10,7 +10,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
 a {color: #C00;}
 details {border: 1px solid #E1E1E1; border-radius: 5px; box-shadow: 0 1px 4px rgba(0, 0, 0, .4); color: #363636; margin: 0 0 .4em; padding: 1%;}
 details[open] {background: #E1E1E1;}
-summary {background: -webkit-linear-gradient(top, #FAFAFA 50%, #E1E1E1 50%); border-radius: 5px; cursor: pointer; font-size: .65em; font-weight: bold; margin: -1%; padding: 8px 0; position: relative; width: 102%;}
+summary {background: -webkit-linear-gradient(top, #FAFAFA 50%, #E1E1E1 50%); border-radius: 2px; cursor: pointer; font-size: .65em; font-weight: bold; margin: -1%; padding: 8px 0; position: relative; width: 102%;}
 summary:hover, details[open] summary {background: #E1E1E1;}
 summary::-webkit-details-marker {display: none}
 summary:before{border-radius: 5px; content: "+"; color: #363636; display: block; float: left; font-size: 1.5em; font-weight: bold; margin: -2px 10px 0 10px; padding: 0; text-align: center; width: 20px;}
@@ -24,7 +24,7 @@ Current
 <summary>Michelle A. Caiña</summary>
 <p><br>
 Master in Information Technology <br>
-<b>Title</b>
+<b>Determining Pattern Associations of Multiple Intelligence and SHS Strands Using FP-Growth</b>
 </p>
 </details>
 
