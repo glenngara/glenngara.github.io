@@ -8,7 +8,7 @@ author_profile: true
 <style>
 body {font-family: Arial, Helvetica, sans-serif;}
 a {color: #C00;}
-details {border: 1px solid #E1E1E1; border-radius: 4px; box-shadow: 0 1px 4px rgba(0, 0, 0, .4); color: #363636; margin: 0 0 .4em; padding: 1%;}
+details {border: 1px solid #E1E1E1; border-radius: 3px; box-shadow: 0 1px 4px rgba(0, 0, 0, .4); color: #363636; margin: 0 0 .4em; padding: 1%;}
 details[open] {background: #E1E1E1;}
 summary {background: -webkit-linear-gradient(top, #FAFAFA 50%, #E1E1E1 50%); border-radius: 5px; cursor: pointer; font-size: .6em; font-weight: bold; margin: -1%; padding: 8px 0; position: relative; width: 102%;}
 summary:hover, details[open] summary {background: #E1E1E1;}
