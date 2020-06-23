@@ -6,8 +6,8 @@ main:
     url: /publications/
   - title: "Teaching"
     url: /teaching/
-  # - title: "Students"
-  #   url: /students/
+  - title: "Students"
+    url: /students/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
