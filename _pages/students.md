@@ -44,7 +44,7 @@ Master in Information Technology, 2019 <br>
 <summary>Eduardo B. Santiago</summary>
 <p><br>
 Master in Information Technology, 2019 <br>
-<b><a href="/publications/desirable-applicants-predictiont/">A Model Based Prediction of Desirable Applicants through Employee’s Perception of Retention and Performance</a></b>
+<b><a href="/publications/desirable-applicants-prediction/">A Model Based Prediction of Desirable Applicants through Employee’s Perception of Retention and Performance</a></b>
 </p>
 </details>
 
