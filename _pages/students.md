@@ -28,7 +28,7 @@ Former
 <summary>Darell P. Pulvera</summary>
 <p><br>
 Master in Information Technology, 2019 <br>
-EyeRice: A Rice Disease Identification Mobile Application using Deep Convolutional Neural Network
+**EyeRice: A Rice Disease Identification Mobile Application using Deep Convolutional Neural Network**
 </p>
 </details>
 
@@ -36,6 +36,7 @@ EyeRice: A Rice Disease Identification Mobile Application using Deep Convolution
 <summary>Vince Joseph W. Venida</summary>
 <p><br>
 Master in Information Technology, 2019 <br>
+**Tuberculosis Surveillance, Knowledge Generation and Decision Support System**
 </p>
 </details>
 
@@ -43,7 +44,7 @@ Master in Information Technology, 2019 <br>
 <summary>Eduardo B. Santiago</summary>
 <p><br>
 Master in Information Technology, 2019 <br>
-A Model Based Prediction of Desirable Applicants through Employee’s Perception of Retention and Performance
+**A Model Based Prediction of Desirable Applicants through Employee’s Perception of Retention and Performance**
 </p>
 </details>
 
@@ -51,6 +52,6 @@ A Model Based Prediction of Desirable Applicants through Employee’s Perception
 <summary>Jonilyn A. Tejada</summary>
 <p><br>
 Master in Information Technology, 2018 <br>
-LeafCheckIT: A Banana Leaf Analyzer for Identifying Macronutrient Deficiency
+**LeafCheckIT: A Banana Leaf Analyzer for Identifying Macronutrient Deficiency**
 </p>
 </details>
