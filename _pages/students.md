@@ -27,13 +27,13 @@ Former
 <details>
   <summary>Darell P. Pulvera</summary>
   <p>
-  Master in Information Technology, 2019
+  Master in Information Technology, 2019 <br>
   </p>
 </details>
 <details>
   <summary>Vince Joseph W. Venida</summary>
   <p>
-  Master in Information Technology, 2019
+  Master in Information Technology, 2019 <br>
   </p>
 </details>
 <details>
