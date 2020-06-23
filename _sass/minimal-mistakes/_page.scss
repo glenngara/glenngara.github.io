@@ -116,7 +116,7 @@ body {
     margin: 0 0 $indent-var;
 
     /* sibling indentation*/
-    @if $paragraph-indent == true {
+    @if $paragraph-indent == false {
       & + p {
         text-indent: $indent-var;
         margin-top: -($indent-var);
