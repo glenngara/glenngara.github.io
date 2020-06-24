@@ -9,7 +9,7 @@ I am a Machine Learning Engineer of [SpeechTherapy.ai](https://lifetimefluency.c
 
 I am passionate about Machine Learning and Artificial Intelligence, and its applications in machine vision and complex networks. I am also motivated to helping people build data-driven solutions even without a machine learning background.
 
-Currently, I'm also working on my PhD dissertation about the theory and development of a shallow neural network architecture and an incremental learning algorithm.
+Also, I am working on my PhD dissertation about the theory and development of a shallow neural network architecture and an incremental learning algorithm.
 
 Recent Publications
 ------
