@@ -5,6 +5,8 @@ title: "Students"
 author_profile: true
 ---
 
+It's a privilege to mentor students and collaborate with them in doing scholarly work.
+
 <style>
 <!-- body {font-family: Arial, Helvetica, sans-serif;} -->
 <!-- a {color: #C00;} -->
