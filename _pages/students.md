@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <style>
-body {font-family: Arial, Helvetica, sans-serif;}
+<!-- body {font-family: Arial, Helvetica, sans-serif;} -->
 <!-- a {color: #C00;} -->
 details {border: 1px solid #E1E1E1; border-radius: 5px; box-shadow: 0 1px 4px rgba(0, 0, 0, .4); color: #363636; margin: 0 0 .4em; padding: 1%;}
 details[open] {background: #E1E1E1;}
