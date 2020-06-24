@@ -5,7 +5,7 @@ title: "Students"
 author_profile: true
 ---
 
-It's a privilege to mentor the following students and collaborate with them in doing scholarly work.
+It is a privilege for me to mentor the following students and collaborate with them in doing scholarly work.
 
 <style>
 details {border: 1px solid #E1E1E1; border-radius: 5px; box-shadow: 0 1px 4px rgba(0, 0, 0, .4); color: #363636; margin: 0 0 .4em; padding: 1%;}
