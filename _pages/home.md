@@ -5,7 +5,7 @@ title: "About"
 author_profile: true
 ---
 
-I am a Machine Learning Engineer of [SpeechTherapy.ai](https://lifetimefluency.com) (formerly Lifetime Fluency) and Assistant Professor of [UIC College of Computer Studies](https://www.uic.edu.ph/ite). In 2017, I started my journey as a PhD student and researcher at [De La Salle University-Manila](https://www.dlsu.edu.ph) and [DLSU Center for Complexity and Emerging Technologies](https://comet.dlsu.edu.ph), respectively. At the lab, I conduct research on the structure and dynamics of a research collaboration network through structural analysis and network visualization.
+I am a Machine Learning Engineer of [SpeechTherapy.ai](https://lifetimefluency.com) (formerly Lifetime Fluency), where I am currently the leading the development of an artificial intelligence for speech problem detection. At the same time, I am an Assistant Professor of [University of the Immaculate Conception - C College of Computer Studies](https://www.uic.edu.ph/ite). In 2017, I started my journey as a PhD student and researcher at [De La Salle University-Manila](https://www.dlsu.edu.ph) and [DLSU Center for Complexity and Emerging Technologies](https://comet.dlsu.edu.ph), respectively. At the lab, I conduct research on the structure and dynamics of a research collaboration network through structural analysis and network visualization.
 
 I am passionate about Machine Learning and Artificial Intelligence, and its applications in machine vision and complex networks. I am also motivated to helping people build data-driven solutions even without a machine learning background.
 
