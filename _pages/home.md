@@ -41,7 +41,7 @@ Eduardo B. Santiago & [Glenn Paul P. Gara](/)
 News and Updates
 ------
 **Jun 21, 2020**  
-I am now part of [SpeechTherapy.Ai](https://lifetimefluency.com/) (formerly Lifetime Fluency) as the company's Lead Machine Learning Engineer. I'm excited for this new journey of my professional career.
+I am now part of [SpeechTherapy.Ai](https://lifetimefluency.com/) (formerly Lifetime Fluency) as one of the company's Machine Learning Engineer. I'm excited for this new journey of my professional career.
 
 **Jun 18, 2020**  
 I will be teaching the CC212: Information Management course this coming first semester of school year 2020-2021 at [UIC College of Computer Studies](https://www.uic.edu.ph/ite/).
