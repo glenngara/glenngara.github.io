@@ -11,8 +11,6 @@ My PhD dissertation is currently in the works, which is about the theory and dev
 
 I am passionate about Machine Learning and Artificial Intelligence, and its applications in machine vision and complex networks. I am also motivated to helping people build data-driven solutions even without a machine learning background.
 
-
-
 Recent Publications
 ------
 [**Generating Adversarial Examples Using Uniform Pixels and Neighbor Aggregation**](/publications/generating-adversarial-examples/){: style="color: #3D4144"}  
