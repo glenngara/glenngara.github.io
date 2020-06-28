@@ -32,7 +32,7 @@ Master in Information Technology <br>
 <summary>Cindy A. Lasco</summary>
 <p><br>
 Master in Information Technology <br>
-<b>Title</b>
+<b>A Supervised Learning for Detection of Pests and Diseases on Banana Images</b>
 </p>
 </details>
 
