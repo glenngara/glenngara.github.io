@@ -5,7 +5,7 @@ title: "About"
 author_profile: true
 ---
 
-I am a Artificial Intelligence/Machine Learning Engineer of [SpeechTherapy.Ai](https://lifetimefluency.com) (formerly Lifetime Fluency), where I am presently developing an artificial intelligence for speech problem detection. At the same time, I am an Assistant Professor at the [University of the Immaculate Conception, College of Computer Studies](https://www.uic.edu.ph/ite). In 2017, I started my journey as a PhD Computer Science student and researcher at [De La Salle University-Manila](https://www.dlsu.edu.ph) and [DLSU Center for Complexity and Emerging Technologies](https://comet.dlsu.edu.ph), respectively. At the lab, I conduct research on the structure and dynamics of a research collaboration network through structural analysis and network visualization.
+I am an Artificial Intelligence/Machine Learning Engineer of [SpeechTherapy.Ai](https://lifetimefluency.com) (formerly Lifetime Fluency), where I am presently developing an artificial intelligence for speech problem detection. At the same time, I am an Assistant Professor at the [University of the Immaculate Conception, College of Computer Studies](https://www.uic.edu.ph/ite). In 2017, I started my journey as a PhD Computer Science student and researcher at [De La Salle University-Manila](https://www.dlsu.edu.ph) and [DLSU Center for Complexity and Emerging Technologies](https://comet.dlsu.edu.ph), respectively. At the lab, I conduct research on the structure and dynamics of a research collaboration network through structural analysis and network visualization.
 
 My PhD dissertation is currently in the works, which is about the theory and development of a shallow neural network architecture and an incremental learning algorithm.
 
@@ -39,7 +39,7 @@ Eduardo B. Santiago & [Glenn Paul P. Gara](/)
 News and Updates
 ------
 **Jun 21, 2020**  
-I am now part of [SpeechTherapy.Ai](https://lifetimefluency.com/) (formerly Lifetime Fluency) as one of the company's Machine Learning Engineer. I'm excited for this new journey of my professional career.
+I am now part of [SpeechTherapy.Ai](https://lifetimefluency.com/) (formerly Lifetime Fluency) as one of the company's Artificial Intelligence/Machine Learning Engineer. I'm excited for this new journey of my professional career.
 
 **Jun 18, 2020**  
 I will be teaching the CC212: Information Management course this coming first semester of school year 2020-2021 at [UIC College of Computer Studies](https://www.uic.edu.ph/ite/).
