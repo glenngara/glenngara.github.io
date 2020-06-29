@@ -48,7 +48,7 @@ Master in Information Technology <br>
 <summary>Jennifer L. Pido</summary>
 <p><br>
 Master in Information Systems <br>
-<b>HIVe: An Decision Support and Monitoring Application for HIV Cases</b>
+<b>HIVe: A Decision Support and Monitoring Application for HIV Cases</b>
 </p>
 </details>
 
