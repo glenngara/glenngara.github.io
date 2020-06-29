@@ -18,6 +18,7 @@ Undergraduate
 Graduate
 * Data Warehousing
 * Advanced E-Commerce
+* Software Quality Assurance
 
 AMA Computer College - Davao
 ------
