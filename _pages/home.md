@@ -16,7 +16,7 @@ Recent Publications
 [**Generating Adversarial Examples Using Uniform Pixels and Neighbor Aggregation**](/publications/generating-adversarial-examples/){: style="color: #3D4144"}  
 [Glenn Paul P. Gara](/) & Arnulfo P. Azcarraga  
 *20th Philippine Computing Science Congress, 2020*  
-<button type="button" class="btn btn-lg btn-so">
+<button onclick="location.href='/assets/files/publications/generating-adversarial-examples/gara2020_generatingadversarial.pdf'" type="button" class="btn btn-lg btn-so">
   <i class="fa fa-file-pdf-o pr-1"></i>
   <span>PDF</span>
 </button>
