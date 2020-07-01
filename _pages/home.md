@@ -17,10 +17,9 @@ Recent Publications
 [Glenn Paul P. Gara](/) & Arnulfo P. Azcarraga  
 *20th Philippine Computing Science Congress, 2020*  
 <button type="button" class="btn btn-lg btn-so">
-  <i class="fab fa-stack-overflow pr-1"></i>
-  <span>Stack Overflow</span>
+  <i class="fab fa-file-pdf-o pr-1"></i>
+  <span>PDF</span>
 </button>
-<span class="counter counter-lg">22</span>
 
 <a href="/assets/files/publications/generating-adversarial-examples/gara2020_generatingadversarial.pdf" class="btn btn--info">PDF</a>
 <a href="/publications/generating-adversarial-examples#bibtex" class="btn btn--info">BibTeX</a>
