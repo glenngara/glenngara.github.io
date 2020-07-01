@@ -17,7 +17,7 @@ Recent Publications
 [Glenn Paul P. Gara](/) & Arnulfo P. Azcarraga  
 *20th Philippine Computing Science Congress, 2020*  
 <button onclick="location.href='/assets/files/publications/generating-adversarial-examples/gara2020_generatingadversarial.pdf'" type="button" class="btn btn-lg btn-so">
-  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+  <i class="fab fa-fw fa-facebook-square"></i>
   <span>PDF</span>
 </button>
 
