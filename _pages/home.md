@@ -20,7 +20,6 @@ Recent Publications
   <i class="fa fa-file-pdf-o"></i>
   <span>PDF</span>
 </button> -->
-
 <a href="/assets/files/publications/generating-adversarial-examples/gara2020_generatingadversarial.pdf" class="btn btn--info">PDF</a>
 <a href="/publications/generating-adversarial-examples#bibtex" class="btn btn--info">BibTeX</a>
 <a href="/publications/generating-adversarial-examples#cite" class="btn btn--info">Cite</a>
