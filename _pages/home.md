@@ -42,6 +42,9 @@ Eduardo B. Santiago & [Glenn Paul P. Gara](/)
 
 News and Updates
 ------
+**Jul 2, 2020**  
+I will be teaching the CS213: Algorithms and Complexity course this coming first semester of school year 2020-2021 at [UIC College of Computer Studies](https://www.uic.edu.ph/ite/).
+
 **Jun 21, 2020**  
 I am now part of [SpeechTherapy.Ai](https://lifetimefluency.com/) (formerly Lifetime Fluency) as an Artificial Intelligence/Machine Learning Engineer. I'm excited for this new journey of my professional career.
 
