@@ -17,7 +17,7 @@ cc212:
   - title: Getting Started
     children:
       - title: "About the Course"
-        url: /teaching/CC212/main/
+        # url: /teaching/CC212/main/
       # - title: "Structure"
       #   url: /docs/structure/
       # - title: "Installation"
