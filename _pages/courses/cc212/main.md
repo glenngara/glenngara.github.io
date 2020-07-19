@@ -1,5 +1,5 @@
 ---
-permalink: /courses/
+permalink: /courses/cc212/
 layout: single
 title: "CC212 - Information Management"
 author_profile: true
