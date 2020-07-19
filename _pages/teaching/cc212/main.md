@@ -7,11 +7,9 @@ sidebar:
 toc: true
 ---
 
-Conference
+COURSE DETAILS
 ------
-[**Generating Adversarial Examples Using Uniform Pixels and Neighbor Aggregation**](/publications/generating-adversarial-examples/){: style="color: #3D4144"}  
-[Glenn Paul P. Gara](/) & Arnulfo P. Azcarraga  
-*20th Philippine Computing Science Congress, 2020*  
-<a href="/assets/files/publications/generating-adversarial-examples/gara2020_generatingadversarial.pdf" class="btn btn--info">PDF</a>
-<a href="/publications/generating-adversarial-examples#bibtex" class="btn btn--info">BibTeX</a>
-<a href="/publications/generating-adversarial-examples#cite" class="btn btn--info">Cite</a>
+**Course Code**: CC212
+**Course Title**: Information Management
+**Credit Units**: 3
+**Course Description**: This course brings databases to life with a unique approach that focuses not only on constructing databases and using database tools, but also the implications of data uses and issues. This is an introductory course used to teach the fundamentals and basic principles of databases and their related technologies. Throughout this course, students will explore the areas that are fundamental to the design, development, and implementation of enterprise-wide information systems. Throughout their exploration, students will develop an understanding of the social, ethical, and legal issues surrounding such implementations.
