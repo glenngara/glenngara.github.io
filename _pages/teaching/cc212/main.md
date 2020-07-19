@@ -5,6 +5,7 @@ title: "CC212 - Information Management"
 sidebar:
   nav: "docs"
 toc: true
+toc_label: "Table of Contents"
 ---
 
 COURSE DETAILS
@@ -24,7 +25,7 @@ COURSE OUTCOMES
 
 TOPIC COVERAGE
 ------
-- Database Concepts:
+- Database Concepts
 - Data Models
 - Degrees of Data Abstraction
 - Introduction to SQL
