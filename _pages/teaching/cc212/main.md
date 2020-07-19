@@ -49,6 +49,10 @@ This course brings databases to life with a unique approach that focuses not onl
 | Credit Units | 3                      |
 
 
+| | | |
+|-|-|-|
+|__Bold Key__| Value1 |
+| Normal Key | Value2 |
 <!--
   - Database Concepts:
     - Introducing the Database
