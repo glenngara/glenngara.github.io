@@ -22,45 +22,52 @@ COURSE OUTCOMES
 - Design a database system that implements SQL queries to create and manipulate data from within a database.
 - Demonstrate steps of the database creation process and how database data is stored.
 
-COURSE TOPICS
+TOPIC COVERAGE
 ------
-- Database Concepts
-  - Introducing the Database
-  - Evolution of File System Data Processing
-  - Database Systems
-  - DBMS Functions
-  - Preparing for a Database Professional Career
-  - Structural and Data Independence
-  - Data Redundancy
-  - Data Anomalies
-
+- Database Concepts:
 - Data Models
-  - The importance of data models
-  - Business Rules
-  - The Evolution of data models
-  - Hierarchical and Networks
-  - Relational
-  - Entity Relationship Model (ERM)
-  - Emerging Data Models: Big Data & NoSQL
-
 - Degrees of Data Abstraction
-  - The External Model
-  - The Conceptual Model
-  - The Internal Model
-  - The Physical Model
-
 - Introduction to SQL
-  - Data Types
-  - SQL Queries
-  - The Database Model
-
 - Practical SQL
-  - Basic SELECT Queries
-  - SELECT Statement Options
-  - Aggregate Processing
-  - Subqueries
-  - SQL Functions
-  - Data Definition Commands
-  - Creating Table Structure
-  - Altering Table Structure
-  - Data Manipulation Commands
+
+<!--
+  - Database Concepts:
+    - Introducing the Database
+    - Evolution of File System Data Processing
+    - Database Systems
+    - DBMS Functions
+    - Preparing for a Database Professional Career
+    - Structural and Data Independence
+    - Data Redundancy
+    - Data Anomalies
+
+  - Data Models
+    - The importance of data models
+    - Business Rules
+    - The Evolution of data models
+    - Hierarchical and Networks
+    - Relational
+    - Entity Relationship Model (ERM)
+    - Emerging Data Models: Big Data & NoSQL
+
+  - Degrees of Data Abstraction
+    - The External Model
+    - The Conceptual Model
+    - The Internal Model
+    - The Physical Model
+
+  - Introduction to SQL
+    - Data Types
+    - SQL Queries
+    - The Database Model
+
+  - Practical SQL
+    - Basic SELECT Queries
+    - SELECT Statement Options
+    - Aggregate Processing
+    - Subqueries
+    - SQL Functions
+    - Data Definition Commands
+    - Creating Table Structure
+    - Altering Table Structure
+    - Data Manipulation Commands -->
