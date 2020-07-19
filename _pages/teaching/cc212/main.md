@@ -56,9 +56,13 @@ This course brings databases to life with a unique approach that focuses not onl
 |__Bold Key__| Value1 |
 | Normal Key | Value2 |
 
+
 []()  |
 ------|------
 Row 1 | row 2
+
+
+
 <!--
   - Database Concepts:
     - Introducing the Database
