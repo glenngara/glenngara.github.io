@@ -1,8 +1,8 @@
 ---
-permalink: /teaching/cc212/main/
+permalink: /teaching/CC212/main/
 layout: single
 title: "CC212 - Information Management"
-author_profile: true
+
 ---
 
 Conference
