@@ -1,6 +1,6 @@
 ---
 permalink: /teaching/CC212/main/
-layout: wide
+layout: posts
 title: "CC212 - Information Management"
 author_profile: false
 ---
