@@ -4,6 +4,7 @@ layout: single
 title: "CC212 - Information Management"
 sidebar:
   nav: "docs"
+toc: true
 ---
 
 Conference
