@@ -3,7 +3,7 @@ permalink: /teaching/CC212/main/
 layout: single
 title: "CC212 - Information Management"
 sidebar:
-  nav: "docs"
+  nav: "cc212"
 toc: true
 toc_label: "TABLE OF CONTENTS"
 ---
