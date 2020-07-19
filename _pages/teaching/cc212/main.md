@@ -54,13 +54,13 @@ COURSE TOPICS
   - SQL Queries
   - The Database Model
 
-- Basic SELECT Queries
-- SELECT Statement Options
-- Aggregate Processing
-- Subqueries
-- SQL Functions
-
-- Data Definition Commands
-- Creating Table Structure
-- Altering Table Structure
-- Data Manipulation Commands
+- Practical SQL
+  - Basic SELECT Queries
+  - SELECT Statement Options
+  - Aggregate Processing
+  - Subqueries
+  - SQL Functions
+  - Data Definition Commands
+  - Creating Table Structure
+  - Altering Table Structure
+  - Data Manipulation Commands
