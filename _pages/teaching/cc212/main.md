@@ -5,7 +5,7 @@ title: "CC212 - Information Management"
 sidebar:
   nav: "docs"
 toc: true
-toc_label: "Table of Contents"
+toc_label: "TABLE OF CONTENTS"
 ---
 
 # COURSE DETAILS
