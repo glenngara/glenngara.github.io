@@ -2,7 +2,7 @@
 permalink: /teaching/CC212/main/
 layout: single
 title: "CC212 - Information Management"
-
+nav: "docs"
 ---
 
 Conference
