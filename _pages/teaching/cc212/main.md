@@ -25,7 +25,7 @@ This course brings databases to life with a unique approach that focuses not onl
 - Design a database system that implements SQL queries to create and manipulate data from within a database.
 - Demonstrate steps of the database creation process and how database data is stored.
 
-## Topic Coverage
+## Course Topics
 - Database Concepts
 - Data Models
 - Degrees of Data Abstraction
