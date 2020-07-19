@@ -39,6 +39,16 @@ This course brings databases to life with a unique approach that focuses not onl
 |--------------|------------------------|
 | Credit Units | 3                      |
 
+
+| <!-- -->     | <!-- -->               |
+|--------------|------------------------|
+| Course Code  | CC212                  |
+|--------------|------------------------|
+| Course Title | Information Management |
+|--------------|------------------------|
+| Credit Units | 3                      |
+
+
 <!--
   - Database Concepts:
     - Introducing the Database
