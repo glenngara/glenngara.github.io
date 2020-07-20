@@ -25,7 +25,7 @@ Artificial Intelligence/Machine Learning Engineer; Researcher and developer of a
 **DLSU Center for Complexity and Emerging Technologies**, 2017-Present  
 PhD researcher on collaboration research networks; Developed an Adversarial Example technique on images; Trains research interns on data science topics  
 
-**University of the Immaculate Conception**, 2014-Present (On leave)  
+**University of the Immaculate Conception**, 2014-Present  
 Asst. Professor in College of Computer Studies; Academic Coordinator (2016-2017); Conducts lectures and prepares course materials on Computer Science and Information Technology courses in undergraduate and graduate level
 
 **AMA Computer College - Davao**, 2012-2014  
