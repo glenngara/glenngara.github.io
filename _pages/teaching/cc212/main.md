@@ -10,10 +10,10 @@ toc_label: "TABLE OF CONTENTS"
 
 ## Course Details
 <p class="notice">
-<strong>Course Code</strong>: CC212 <br><br>
-<strong>Course Title</strong>: Information Management <br><br>
-<strong>Credit Units</strong>: 3 <br><br>
-<strong>Instructor</strong>: Glenn Paul Gara <br><br>
+<strong>Course Code</strong>: CC212 <br>
+<strong>Course Title</strong>: Information Management <br>
+<strong>Credit Units</strong>: 3 <br>
+<strong>Instructor</strong>: Glenn Paul Gara <br>
 <strong>Class Schedule</strong>: TTh 1:00-4:00 PM
 </p>
 
