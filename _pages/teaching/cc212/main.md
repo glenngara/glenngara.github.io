@@ -31,7 +31,7 @@ This course brings databases to life with a unique approach that focuses not onl
 - Database Concepts
 - Data Models
 - Degrees of Data Abstraction
-- Introduction to SQL
+- Server Query Language (SQL)
 - Practical SQL
 
 
