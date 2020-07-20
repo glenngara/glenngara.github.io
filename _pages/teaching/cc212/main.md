@@ -9,13 +9,11 @@ toc_label: "TABLE OF CONTENTS"
 ---
 
 ## Course Details
-<p class="notice">
-<strong>Course Code</strong>: CC212 <br>
-<strong>Course Title</strong>: Information Management <br>
-<strong>Credit Units</strong>: 3 <br>
-<strong>Instructor</strong>: Glenn Paul Gara <br>
-<strong>Class Schedule</strong>: TTh 1:00-4:00 PM
-</p>
+**Course Code**: CC212  
+**Course Title**: Information Management  
+**Credit Units**: 3  
+**Instructor**: Glenn Paul Gara  
+**Class Schedule**: TTh 1:00-4:00 PM
 
 ## Course Description
 This course brings databases to life with a unique approach that focuses not only on constructing databases and using database tools, but also the implications of data uses and issues. This is an introductory course used to teach the fundamentals and basic principles of databases and their related technologies. Throughout this course, students will explore the areas that are fundamental to the design, development, and implementation of enterprise-wide information systems. Throughout their exploration, students will develop an understanding of the social, ethical, and legal issues surrounding such implementations.
